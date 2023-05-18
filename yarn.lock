@@ -1714,10 +1714,10 @@ cardinal@^2.1.1:
     ansicolors "~0.3.2"
     redeyed "~2.1.0"
 
-casdoor-js-sdk-debug@^0.0.5:
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/casdoor-js-sdk-debug/-/casdoor-js-sdk-debug-0.0.5.tgz#9a7b80bdac2f93951f7f37fecf7133d04dc6daca"
-  integrity sha512-bm8ZZqVWrBR3+pJR4U1PlJ6uAA9ZLZUQn3IsxYBPFcd1YMF5Brg0O85gpbHarAPUfiQQcnhDUS1V9BMqi01/Fg==
+casdoor-js-sdk-debug@^0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/casdoor-js-sdk-debug/-/casdoor-js-sdk-debug-0.0.6.tgz#f8b2c008ac9a114d0369703c3a364f059326d384"
+  integrity sha512-Ii/bS0YXD5gci5QGzqKEFF1MvW3+TbvaRvwZqGZCCTEe0djPEv5F3oLsDhYnbsCD+KAB3PhRhiuMjtThjpBGPA==
 
 caseless@~0.12.0:
   version "0.12.0"
