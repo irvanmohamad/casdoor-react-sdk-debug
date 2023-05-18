@@ -78,6 +78,6 @@
     "typescript": "^4.8.2"
   },
   "dependencies": {
-    "casdoor-js-sdk-debug": "^0.0.2"
+    "casdoor-js-sdk-debug": "^0.0.3"
   }
 }
