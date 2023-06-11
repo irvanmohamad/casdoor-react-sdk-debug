@@ -15,7 +15,7 @@
 import * as React from "react";
 import * as renderer from "react-test-renderer";
 import { SilentSignin } from "../SilentSignin";
-import Sdk from "casdoor-js-sdk-debug";
+import Sdk from "casdoor-js-sdk";
 
 it("<SilentSignin/> should render <iframe/>", () => {
   const fakeSdk = new Sdk({

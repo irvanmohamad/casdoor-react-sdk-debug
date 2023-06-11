@@ -15,7 +15,7 @@
 import * as React from "react";
 import * as renderer from "react-test-renderer";
 import { AuthCallback } from "../AuthCallback";
-import Sdk from "casdoor-js-sdk-debug";
+import Sdk from "casdoor-js-sdk";
 import "isomorphic-fetch";
 
 const fakeSigninFn = () => {
