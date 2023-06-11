@@ -13,7 +13,7 @@
 // limitations under the License.
 
 import * as React from "react";
-import Sdk from "casdoor-js-sdk-debug";
+import Sdk from "casdoor-js-sdk";
 import type { Message } from "./message";
 
 export interface SilentSigninProps {
